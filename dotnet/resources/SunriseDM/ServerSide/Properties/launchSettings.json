@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ServerSide": {
+      "commandName": "Project"
+    },
+    "SunriseDM": {
+      "commandName": "Executable",
+      "executablePath": "D:\\RAGEMP\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\vlad\\Desktop\\SunriseDM"
+    }
+  }
+}

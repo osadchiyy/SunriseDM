@@ -1,0 +1,9 @@
+{
+	"maxplayers" : 100,
+	"name" : "SunriseDM", 
+	"gamemode" : "SunriseDM", 
+	"stream-distance" : 500.0,
+	"announce" : false,
+	"csharp" : "enabled",
+	"port": 22005
+}

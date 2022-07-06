@@ -1,0 +1,5 @@
+<meta>
+    <info name="SunriseDM" description="DeathMatch Server" />
+
+    <script src="ServerSide\bin\x64\Debug\netcoreapp3.1\ServerSide.dll" />
+</meta>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\dotnet\resources\SunriseDM\ServerSide\ServerSide.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="rage-sharpN">
+      <HintPath>D:\RAGEMP\dotnet\rage-sharpN.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
